@@ -1,0 +1,11 @@
+*.pdf
+*.o
+Debug/
+Release/
+*.cat
+*.inf
+*.componentinfo.xml
+*.cproj
+*.elf
+*.map
+
